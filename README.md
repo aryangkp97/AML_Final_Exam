@@ -1,8 +1,8 @@
-# Machine learning project
+# Applied Machine learning Final Exam
 
-### Student Name: Rahul Trivedi
+### Student Name: Aryan Singh
 
-### Student Number: 69535
+### Student Number: 69446
 
 #### Description:
 
